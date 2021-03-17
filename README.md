@@ -15,7 +15,7 @@
 
 **密集连接块**
 
-![image-20200822215205070](C:\Users\Mosu\AppData\Roaming\Typora\typora-user-images\image-20200822215205070.png)
+![密集连接块](https://github.com/BaoqiZhao/Dense-connective-blocks-and-self-attention-mechanism-based-glandular-cell-seg-mentation/blob/master/images/%E5%AF%86%E9%9B%86%E8%BF%9E%E6%8E%A5%E5%9D%97.png)
 
 将每经过一次卷积的特征图保留下来，最后合并所有的输出通道。
 
