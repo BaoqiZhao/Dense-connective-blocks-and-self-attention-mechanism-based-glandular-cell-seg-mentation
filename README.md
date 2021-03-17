@@ -23,7 +23,7 @@
 
 **自注意力机制**
 
-![image-20200822215135320](C:\Users\Mosu\AppData\Roaming\Typora\typora-user-images\image-20200822215135320.png)
+![融合位置注意力模块和通道注意力模块](https://github.com/BaoqiZhao/Dense-connective-blocks-and-self-attention-mechanism-based-glandular-cell-seg-mentation/blob/master/images/%E8%9E%8D%E5%90%88%E4%BD%8D%E7%BD%AE%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%A8%A1%E5%9D%97%E5%92%8C%E9%80%9A%E9%81%93%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%A8%A1%E5%9D%97.png)
 
 分为位置注意力模块和通道注意力模块。
 
