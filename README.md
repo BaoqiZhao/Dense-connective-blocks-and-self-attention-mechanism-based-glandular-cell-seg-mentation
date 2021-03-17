@@ -41,6 +41,6 @@
 
 **最后的分割效果**
 
-![image-20200822215346884](C:\Users\Mosu\AppData\Roaming\Typora\typora-user-images\image-20200822215346884.png)
+![测试集分割结果](https://github.com/BaoqiZhao/Dense-connective-blocks-and-self-attention-mechanism-based-glandular-cell-seg-mentation/blob/master/images/%E6%B5%8B%E8%AF%95%E9%9B%86%E5%88%86%E5%89%B2%E7%BB%93%E6%9E%9C%E7%A4%BA%E4%BE%8B.png)
 
 ​						原图							GT						SegNet					 U-Net					 Ours
